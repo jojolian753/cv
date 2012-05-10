@@ -1,0 +1,185 @@
+..
+
+
+.. ----------------------------------------------------------------------------
+.. Server Applications
+.. ----------------------------------------------------------------------------
+
+.. _Apache2: http://httpd.apache.org/
+
+.. _Nginx: http://wiki.nginx.org/Main
+
+.. _uwsgi: http://projects.unbit.it/uwsgi/
+
+.. _unicorn: http://unicorn.bogomips.org/
+
+.. _PostgreSQL: http://www.postgresql.org/
+
+.. _OpenLDAP: http://www.openldap.org/
+
+
+.. ----------------------------------------------------------------------------
+.. Messaging server Applications
+.. ----------------------------------------------------------------------------
+
+.. _postfix: http://www.postfix.org/
+
+.. _mailman: http://www.gnu.org/software/mailman/
+
+
+.. ----------------------------------------------------------------------------
+.. Administration tools
+.. ----------------------------------------------------------------------------
+
+.. _Nagios: http://www.nagios.org/
+
+.. _Icinga: https://www.icinga.org/
+
+.. _Zenoss: http://www.zenoss.com/
+
+.. _supervisor: http://supervisord.org/
+
+.. _monit: http://mmonit.com/monit/
+
+.. _Puppet: http://puppetlabs.com/
+
+.. _FAI: http://fai-project.org/
+
+.. _iproute2:
+   http://www.linuxfoundation.org/collaborate/workgroups/networking/iproute2
+
+
+.. ----------------------------------------------------------------------------
+.. Programming languages:
+.. ----------------------------------------------------------------------------
+
+.. _CPython: http://www.python.org/
+
+.. _PyPy: http://pypy.org/
+
+.. _C99: http://www.open-std.org/jtc1/sc22/wg14/
+
+.. _Ruby mri: http://www.ruby-lang.org/en/
+
+.. _Perl: http://www.perl.org/
+
+.. _swi-prolog: http://www.swi-prolog.org/
+
+.. _CSS: http://www.w3.org/Style/CSS/Overview.en.html
+
+.. ----------------------------------------------------------------------------
+.. Programming libraries:
+.. ----------------------------------------------------------------------------
+
+.. _Boost: http://www.boost.org/
+
+.. _Qt: http://qt.nokia.com/
+
+.. _Gtk+: http://www.gtk.org/
+
+.. _GLM: http://glm.g-truc.net/
+
+.. _sigc++: http://libsigc.sourceforge.net/
+
+
+.. ----------------------------------------------------------------------------
+.. Developping tools
+.. ----------------------------------------------------------------------------
+
+.. _gdb: http://www.gnu.org/software/gdb/
+
+.. _cscope: http://cscope.sourceforge.net/
+
+.. _Eclipse IDE: http://www.eclipse.org/
+
+.. _vim: http://www.vim.org/
+
+
+.. ----------------------------------------------------------------------------
+.. Code documentation:
+.. ----------------------------------------------------------------------------
+
+.. _doxygen: http://www.doxygen.org/
+
+.. _Javadoc: http://www.oracle.com/technetwork/java/javase/documentation/index-jsp-135444.html
+
+.. _pydoc: http://docs.python.org/library/pydoc.html
+
+.. _Sphinx: http://sphinx.pocoo.org/
+
+
+.. ----------------------------------------------------------------------------
+.. Typesetting:
+.. ----------------------------------------------------------------------------
+
+.. _LaTeX: http://www.latex-project.org/
+
+
+.. ----------------------------------------------------------------------------
+.. SCM & VCS:
+.. ----------------------------------------------------------------------------
+
+.. _Git: http://git-scm.com/
+
+.. _mercurial: http://mercurial.selenic.com/
+
+.. _bazaar: http://bazaar.canonical.com/
+
+.. _subversion: http://subversion.apache.org/
+
+
+.. ----------------------------------------------------------------------------
+.. Operating Systems:
+.. ----------------------------------------------------------------------------
+
+.. _Funtoo: http://www.funtoo.org/
+
+.. _Gentoo: http://www.gentoo.org/
+
+.. _Ubuntu: http://www.ubuntu.com/
+
+.. _Debian: http://www.debian.org/
+
+.. _Fedora: http://fedoraproject.org/
+
+.. _FreeBSD: http://www.freebsd.org/
+
+.. _MS Windows: http://windows.microsoft.com/en-US/windows/home
+
+
+.. ----------------------------------------------------------------------------
+.. Apps
+.. ----------------------------------------------------------------------------
+
+.. _LibreOffice: http://www.libreoffice.org/
+
+.. _Dia: https://live.gnome.org/Dia
+
+.. _Gimp: http://www.gimp.org/
+
+.. _Maple: http://www.maplesoft.com/products/maple/
+
+.. _Matlab: http://www.mathworks.de/products/matlab/
+
+.. _Opnet: http://www.opnet.com/
+
+.. ----------------------------------------------------------------------------
+.. Embedded Systems
+.. ----------------------------------------------------------------------------
+
+.. _Arduino: http://www.arduino.cc/
+
+.. _MicaZ/TelosB:
+   http://www.memsic.com/products/wireless-sensor-networks/wireless-modules.html
+
+.. _TI MSP430 LaunchPad:
+   http://processors.wiki.ti.com/index.php/MSP430_LaunchPad_%28MSP-EXP430G2%29
+
+.. _TI MSP430 USB Stick Development Tool: http://www.ti.com/tool/ez430-f2013
+
+.. _TI MSP-EXP430FG4618:
+   http://www.ti.com/tool/msp-exp430fg4618
+
+.. _Khepera: http://diwww.epfl.ch/lami/robots/K-family/Khepera.html
+
+

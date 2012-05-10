@@ -1,0 +1,11 @@
+.. reST english substitutions
+
+.. |EFIR| replace:: `French International School of Riyadh`_
+.. |UNIVIE| replace:: `University of Vienna`_
+.. |UCBL| replace:: `University Claude Bernard of Lyon`_
+.. |TUWIEN| replace:: `Vienna University of Technology (TU Vienna)`_
+.. |ENS| replace:: `École normale supérieure`_
+.. |CITI| replace:: `CITI Laboratory, INSA Lyon`_
+
+.. |--| replace:: \|--\|
+

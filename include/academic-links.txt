@@ -1,0 +1,14 @@
+
+
+.. _French International School of Riyadh: http://www.efi-riyad.com/
+
+.. _University of Vienna: http://www.univie.ac.at/en/
+
+.. _University Claude Bernard of Lyon: http://www.univ-lyon1.fr/
+
+.. _Vienna University of Technology (TU Vienna):
+   http://www.tuwien.ac.at/en/tuwien_home/
+
+.. _École normale supérieure: http://www.ens.fr/?lang=en
+.. _CITI Laboratory, INSA Lyon: http://www.citi.insa-lyon.fr/
+

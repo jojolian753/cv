@@ -1,0 +1,26 @@
+{% extends "!layout.html" %}
+
+{%- block extrahead %}
+{{ super() }}
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-31337366-1']);
+  _gaq.push(['_trackPageview']);
+</script>
+{% endblock %}
+
+{% block footer %}
+{{ super() }}
+<div class="footer">
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/at/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/at/88x31.png" /></a><br />This <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/InteractiveResource" rel="dct:type">work</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.nassimian.com" property="cc:attributionName" rel="cc:attributionURL">Joe R. Nassimian</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/at/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Austria License</a>.
+<script type="text/javascript">
+  (function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ?
+              'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+  })();
+</script>
+</div>
+{% endblock %}
