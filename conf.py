@@ -294,4 +294,4 @@ epub_copyright = u'2012, Joe R. Nassimian'
 
 
 # Example configuration for intersphinx: refer to the Python standard library.
-intersphinx_mapping = {'../build/main': None}
+intersphinx_mapping = {}
