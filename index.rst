@@ -37,7 +37,7 @@ Professional experience & Internships
 -------------------------------------------------------------------------------
 
 **July 2011 |--| Sep 2011**
-  | |CITI|
+  | |CITI| in |Amazones|
   | Internship: Implementation and validation of arduino platforms in `WSim`_,
     an embedded system simulator.
   | Still `active <http://wsim.gforge.inria.fr/people.html>`_ to present day in
@@ -67,7 +67,7 @@ Professional experience & Internships
 ----
 
 **May 2010 |--| Aug 2010**
-  | |CITI|
+  | |CITI| in |Amazones|
   | Internship: Implementation of the ATMEGA128 microcontroller in `WSim`_, an
     embedded system simulator.
 

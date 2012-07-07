@@ -11,4 +11,4 @@
 
 .. _École normale supérieure: http://www.ens.fr/?lang=en
 .. _CITI Laboratory, INSA Lyon: http://www.citi.insa-lyon.fr/
-
+.. _AMAZONES INRIA Team: http://www.citi.insa-lyon.fr/teams/amazones/
