@@ -6,6 +6,7 @@
 .. |TUWIEN| replace:: `Vienna University of Technology (TU Vienna)`_
 .. |ENS| replace:: `École normale supérieure`_
 .. |CITI| replace:: `CITI Laboratory, INSA Lyon`_
+.. |Eat'Sushi| replace:: `Eat'Sushi`_ (japanese restaurant)
 
 .. |--| replace:: \|--\|
 

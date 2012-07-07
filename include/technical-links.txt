@@ -182,4 +182,4 @@
 
 .. _Khepera: http://diwww.epfl.ch/lami/robots/K-family/Khepera.html
 
-
+.. _WSim: http://wsim.gforge.inria.fr/
