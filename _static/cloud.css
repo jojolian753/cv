@@ -390,7 +390,15 @@ div.footer + script + div.footer
  *****************************************************/
 @media print
 {
-   div.body { border: 0; }
+    div.sidebartoggle button#sidebar-show{
+        display: none;
+    }
+
+    div.sidebartoggle button#sidebar-hide{
+        display: none;
+    }
+
+    div.body { border: 0; }
 }
 
 /*****************************************************
