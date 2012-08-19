@@ -9,22 +9,27 @@
 Joe R. Nassimian, Computer Science Engineer
 ===============================================================================
 
+.. rst-class:: fullwidth centered
+
 .. list-table::
-   :widths: 370 50
+   :widths: 90 10
 
    * - :born: 1985
        :address: Austria (Vienna)
        :tel: +43 (0)681 20 75 38 63
        :email: joe.nassimian@gmail.com
      - .. image:: id.*
-          :height: 90 pt
+         :height: 90 pt
 
 
 -------------------------------------------------------------------------------
 Languages
 -------------------------------------------------------------------------------
 
+.. rst-class:: fullwidth centered
+
 .. list-table::
+   :widths: 20 80
 
    * - **Mother tongue**
      - *French, Armenian, English, Arabic*
@@ -41,7 +46,7 @@ Professional experience & Internships
   | Internship: Implementation and validation of arduino platforms in `WSim`_,
     an embedded system simulator.
   | Still `active <http://wsim.gforge.inria.fr/people.html>`_ to present day in
-    the project as `senior developer
+    the project as a `senior developer
     <https://gforge.inria.fr/users/nassimian/>`_.
 
 ----
@@ -55,6 +60,7 @@ Professional experience & Internships
 **March 2011 |--| June 2011**
   | |UCBL|
   | Extracurricular: Developed a security middleware for the university forge.
+  | Put to practice my **ability to work in a team**.
 
 ----
 
@@ -63,6 +69,8 @@ Professional experience & Internships
   | Contributed to the `webcl <https://bitbucket.org/tallion/webclworker/src/9302749009fa/webclworker/src/OpenCLLib.h>`_ implementation
     in firefox, and to the development of the mozilla `addon SDK
     <https://addons.mozilla.org/en-US/developers/docs/sdk/1.8/dev-guide/credits.html>`_.
+  | Put to practice my **creativity** to help bring forth a **proof of
+    concept**.
 
 ----
 
@@ -70,12 +78,15 @@ Professional experience & Internships
   | |CITI| in |Amazones|
   | Internship: Implementation of the ATMEGA128 microcontroller in `WSim`_, an
     embedded system simulator.
+  | Put to practice my *ability* to **learn missing work skills** to *succeed*.
 
 ----
 
 **March 2009 |--| Nov 2009**
   | |Eat'Sushi|
   | Complaint and order management.
+  | Put to practice my **multi-cultural background**, to **listen**,
+    **understand** and **manage** clients' complaints.
 
 ----
 
@@ -84,12 +95,15 @@ Professional experience & Internships
   | Internship: Took part in the implementation of compression algorithms in
     an IPv6 network protocol stack (6lowpan) on the Telosb embedded system
     running TinyOS.
+  | Put to practice my ability to **work autonomously** and to be **punctual**.
 
 ----
 
 **Aug 2005 |--| present**
   | self-employed
   | Course instructor and network security consultant (freelance).
+  | Put to practice my **patience**, my ability to **understand** the *clients'*
+    **need and capability**.
 
 
 -------------------------------------------------------------------------------
@@ -134,7 +148,6 @@ Operating systems
 :BSD variants: `FreeBSD`_
 :Microsoft: `MS Windows`_ (2k, XP, 7, SE2008R2)
 
-----
 
 Administration
 ~~~~~~~~~~~~~~
@@ -143,7 +156,6 @@ Administration
 `Apache2`_; `uwsgi`_; `unicorn`_; `PostgreSQL`_; `postfix`_; `Mailman`_;
 `OpenLDAP`_; `iproute2`_
 
-----
 
 Programming
 ~~~~~~~~~~~
@@ -157,7 +169,6 @@ Programming
         `mercurial`_; `bazaar`_; `subversion`_
 :Other: Design patterns; Policy- and test-driven design; Agile development
 
-----
 
 Applications
 ~~~~~~~~~~~~
@@ -165,7 +176,6 @@ Applications
 `vim`_; `Eclipse IDE`_; `LaTeX`_; `LibreOffice`_; `Gimp`_; `Dia`_; `Maple`_;
 `MatLab`_; `Opnet`_
 
-----
 
 Embedded Systems
 ~~~~~~~~~~~~~~~~
@@ -173,3 +183,10 @@ Embedded Systems
 `Arduino`_; `MicaZ/TelosB`_; `Khepera`_; `TI MSP430 LaunchPad`_/
 `TI MSP-EXP430FG4618`_/`TI MSP430 USB Stick Development Tool`_
 
+
+-------------------------------------------------------------------------------
+Social skills
+-------------------------------------------------------------------------------
+
+Strong work ethics, positive attitude, self-confident, capable of accepting and
+learning from criticism, quick adaptability.
