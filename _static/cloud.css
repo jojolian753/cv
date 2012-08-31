@@ -22,7 +22,7 @@ body
     background: #1A4162;
     background-attachment: fixed;
     color: #000;
-    font-family: "Rosario", sans-serif;
+    font-family: "Noticia Text", serif;
     font-size: 11pt;
     line-height: 1em;
 }
@@ -859,7 +859,7 @@ th
 
 .viewcode-back
 {
-    font-family: "Rosario", sans-serif;
+    font-family: "Noticia Text", serif;
 }
 
 div.viewcode-block:target
