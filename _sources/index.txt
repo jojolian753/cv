@@ -43,21 +43,21 @@ Professional experience & Internships
 
 .. rst-class:: prolist
 
-**July 2011 ⟼ Sep 2011**
+**Jul 2011 ⟼ Sep 2011**
   | |CITI| in |Amazones|
   | Internship: Implementation and validation of arduino platforms in `WSim`_,
     an embedded system simulator.
   | Still `active <http://wsim.gforge.inria.fr/people.html>`_ to present day in
     the project as a `senior developer
     <https://gforge.inria.fr/users/nassimian/>`_.
-**March 2009 ⟼ June 2011**
+**Mar 2009 ⟼ Jun 2011**
   | |UCBL|
   | Tutoring in computer science for student in begining university years.
-**March 2011 ⟼ June 2011**
+**Mar 2011 ⟼ Jun 2011**
   | |UCBL|
   | Extracurricular: Developed a security middleware for the university forge.
   | Put to practice my **ability to work in a team**.
-**Jan 2011 ⟼ March 2011**
+**Jan 2011 ⟼ Mar 2011**
   | Mozilla
   | Contributed to the `webcl <https://bitbucket.org/tallion/webclworker/src/9302749009fa/webclworker/src/OpenCLLib.h>`_ implementation
     in firefox, and to the development of the mozilla `addon SDK
@@ -69,12 +69,12 @@ Professional experience & Internships
   | Internship: Implementation of the ATMEGA128 microcontroller in `WSim`_, an
     embedded system simulator.
   | Put to practice my *ability* to **learn missing work skills** to *succeed*.
-**March 2009 ⟼ Nov 2009**
+**Mar 2009 ⟼ Nov 2009**
   | |Eat'Sushi|
   | Complaint and order management.
   | Put to practice my **multi-cultural background**, to **listen**,
     **understand** and **manage** clients' complaints.
-**March 2009 ⟼ June 2009**
+**Mar 2009 ⟼ Jun 2009**
   | |ENS|
   | Internship: Took part in the implementation of compression algorithms in
     an IPv6 network protocol stack (6lowpan) on the Telosb embedded system
