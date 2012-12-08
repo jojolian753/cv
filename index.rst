@@ -55,7 +55,8 @@ Professional experience & Internships
   | Tutoring in computer science for student in begining university years.
 **Mar 2011 ⟼ Jun 2011**
   | |UCBL|
-  | Extracurricular: Developed a security middleware for the university forge.
+  | Extracurricular: Developed a security middleware  in python for the
+    `university forge <https://forge.univ-lyon1.fr>`_.
   | Put to practice my **ability to work in a team**.
 **Jan 2011 ⟼ Mar 2011**
   | Mozilla
@@ -67,13 +68,8 @@ Professional experience & Internships
 **May 2010 ⟼ Aug 2010**
   | |CITI| in |Amazones|
   | Internship: Implementation of the ATMEGA128 microcontroller in `WSim`_, an
-    embedded system simulator.
+    Open Source embedded system simulator.
   | Put to practice my *ability* to **learn missing work skills** to *succeed*.
-**Mar 2009 ⟼ Nov 2009**
-  | |Eat'Sushi|
-  | Complaint and order management.
-  | Put to practice my **multi-cultural background**, to **listen**,
-    **understand** and **manage** clients' complaints.
 **Mar 2009 ⟼ Jun 2009**
   | |ENS|
   | Internship: Took part in the implementation of compression algorithms in
