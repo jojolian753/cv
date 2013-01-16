@@ -161,7 +161,7 @@
 
 .. _Matlab: http://www.mathworks.de/products/matlab/
 
-.. _Opnet: http://www.opnet.com/
+.. _ns2: http://www.isi.edu/nsnam/ns/
 
 .. ----------------------------------------------------------------------------
 .. Embedded Systems

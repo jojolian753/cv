@@ -34,7 +34,7 @@ Languages
    * - **Mother tongue**
      - *French, Armenian, English, Arabic*
    * - **Basic level (WIP)**
-     - *German (B1-1), Spanish (A1-2)*
+     - *German (B2-2), Spanish (A1-2)*
 
 
 -------------------------------------------------------------------------------
@@ -122,9 +122,8 @@ Operating systems
 Administration
 ~~~~~~~~~~~~~~
 
-`Nagios`_/`Icinga`_/`Zenoss`_; `monit`_; `supervisor`_; `Puppet`_; `Nginx`_;
-`Apache2`_; `uwsgi`_; `unicorn`_; `PostgreSQL`_; `postfix`_; `Mailman`_;
-`OpenLDAP`_; `iproute2`_
+`Nagios`_; `supervisor`_; `Puppet`_; `Nginx`_; `Apache2`_; `uwsgi`_;
+`unicorn`_; `PostgreSQL`_; `postfix`_; `Mailman`_; `OpenLDAP`_; `iproute2`_
 
 
 Programming
@@ -137,14 +136,12 @@ Programming
 :Libraries: `Boost`_; `Gtk+`_; `Qt`_; `GLM`_, `sigc++`_
 :Tools: `doxygen`_; `Javadoc`_, `pydoc`_, `Sphinx`_, `cscope`_; `gdb`_; `Git`_;
         `mercurial`_; `bazaar`_; `subversion`_
-:Other: Design patterns; Policy- and test-driven design; Agile development
 
 
 Applications
 ~~~~~~~~~~~~
 
-`vim`_; `Eclipse IDE`_; `LaTeX`_; `LibreOffice`_; `Gimp`_; `Dia`_; `Maple`_;
-`MatLab`_; `Opnet`_
+`vim`_; `Eclipse IDE`_; `LaTeX`_; `LibreOffice`_; `Dia`_; `ns2`_
 
 
 Embedded Systems
@@ -152,6 +149,23 @@ Embedded Systems
 
 `Arduino`_; `MicaZ/TelosB`_; `Khepera`_; `TI MSP430 LaunchPad`_/
 `TI MSP-EXP430FG4618`_/`TI MSP430 USB Stick Development Tool`_
+
+
+-------------------------------------------------------------------------------
+Open Source contributions
+-------------------------------------------------------------------------------
+
+`Mozilla addon SDK`_; `WSim hardware platform simulator`_ (used in `INRIA's SensLab`_ project); `PyGObject`_; `Liblarch`_; `GTG`_; `Funtoo linux`_;
+`Mediatomb`_.
+
+.. _Mozilla addon SDK: https://addons.mozilla.org/en-US/developers/docs/sdk/latest/dev-guide/credits.html
+.. _WSim hardware platform simulator: https://gforge.inria.fr/users/nassimian/
+.. _PyGObject: http://wsim.gforge.inria.fr/people.html
+.. _Liblarch: https://lists.launchpad.net/gtg-contributors/msg01061.html
+.. _GTG: https://lists.launchpad.net/gtg/msg03555.html
+.. _INRIA's SensLab: http://www.senslab.info/
+.. _Funtoo linux: http://bugs.funtoo.org/browse/FL-244
+.. _Mediatomb: https://github.com/placidrage/mediatomb-ng
 
 
 -------------------------------------------------------------------------------
