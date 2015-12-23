@@ -1,6 +1,5 @@
 
-
-.. _French International School of Riyadh: http://www.efi-riyad.com/
+.. _French International School of Riyadh: http://www.efiriyad.com/
 
 .. _University of Vienna: http://www.univie.ac.at/en/
 
@@ -10,5 +9,5 @@
    http://www.tuwien.ac.at/en/tuwien_home/
 
 .. _École normale supérieure: http://www.ens.fr/?lang=en
-.. _CITI Laboratory, INSA Lyon: http://www.citi.insa-lyon.fr/
-.. _AMAZONES INRIA Team: http://www.citi.insa-lyon.fr/teams/amazones/
+.. _CITI Laboratory, INSA Lyon: http://www.citi-lab.fr/
+.. _AMAZONES INRIA Team: http://www.citi-lab.fr/team/amazones/
