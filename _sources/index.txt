@@ -16,10 +16,10 @@ Joe R. Nassimian, Computer Science Engineer
 
    * - :born: 1985
        :address: Austria (Vienna)
-       :tel: +43 (0)681 20 75 38 63
+       :tel: +43 (0)699 19 27 61 46
        :email: joe.nassimian@gmail.com
      - .. image:: id.*
-         :height: 90 pt
+          :height: 110 pt
 
 
 -------------------------------------------------------------------------------
@@ -33,8 +33,10 @@ Languages
 
    * - **Mother tongue**
      - *French, Armenian, English, Arabic*
+   * - **Intermediate level**
+     - *German (B2-2)*
    * - **Basic level (WIP)**
-     - *German (B2-2), Spanish (A1-2)*
+     - *Spanish (A1-2)*
 
 
 -------------------------------------------------------------------------------
@@ -46,13 +48,13 @@ Professional experience & Internships
 **Jul 2011 ⟼ Sep 2011**
   | |CITI| in |Amazones|
   | Internship: Implementation and validation of arduino platforms in `WSim`_,
-    an embedded system simulator.
+    an open source embedded platform simulator.
   | Still `active <http://wsim.gforge.inria.fr/people.html>`_ to present day in
     the project as a `senior developer
     <https://gforge.inria.fr/users/nassimian/>`_.
 **Mar 2009 ⟼ Jun 2011**
   | |UCBL|
-  | Tutoring in computer science for student in begining university years.
+  | Tutoring in computer science for student in beginning university years.
 **Mar 2011 ⟼ Jun 2011**
   | |UCBL|
   | Extracurricular: Developed a security middleware  in python for the
@@ -60,15 +62,15 @@ Professional experience & Internships
   | Put to practice my **ability to work in a team**.
 **Jan 2011 ⟼ Mar 2011**
   | Mozilla
-  | Contributed to the `webcl <https://bitbucket.org/tallion/webclworker/src/9302749009fa/webclworker/src/OpenCLLib.h>`_ implementation
+  | Contributed to the `webcl <https://github.com/ChiahungTai/OpenCL-playgorund/blob/master/geckoWCL/webcl-lib.patch>`_ implementation
     in firefox, and to the development of the mozilla `addon SDK
-    <https://addons.mozilla.org/en-US/developers/docs/sdk/1.8/dev-guide/credits.html>`_.
+    <https://github.com/mozilla/addon-sdk-sdocs/blob/master/sdk/Firefox-24/dev-guide-source/credits.md>`_.
   | Put to practice my **creativity** to help bring forth a **proof of
     concept**.
 **May 2010 ⟼ Aug 2010**
   | |CITI| in |Amazones|
   | Internship: Implementation of the ATMEGA128 microcontroller in `WSim`_, an
-    Open Source embedded system simulator.
+    Open Source embedded platform simulator.
   | Put to practice my *ability* to **learn missing work skills** to *succeed*.
 **Mar 2009 ⟼ Jun 2009**
   | |ENS|
@@ -81,6 +83,9 @@ Professional experience & Internships
   | Course instructor and network security consultant (freelance).
   | Put to practice my **patience**, my ability to **understand** the *clients'*
     **need and capability**.
+**Sep 2015 ⟼ present**
+  | Work contract as a translator for Volkshilfe.
+  | Volunteer work with refugees.
 
 
 -------------------------------------------------------------------------------
@@ -112,7 +117,6 @@ Computer skills
 
 Operating systems
 ~~~~~~~~~~~~~~~~~
-\ 
 
 :Linux: `Funtoo`_; `Gentoo`_, `Ubuntu`_; `Debian`_; `Fedora`_ `FAI`_
 :BSD variants: `FreeBSD`_
@@ -128,20 +132,19 @@ Administration
 
 Programming
 ~~~~~~~~~~~
-\ 
 
 :Languages: C (`C99`_, C89, GNU C99)/C++ (0X); Python (`CPython`_, `PyPy`_);
             Java; Prolog (`swi-prolog`_), sh/awk; Ruby (`Ruby mri`_); SQL;
             `CSS`_; `Perl`_
 :Libraries: `Boost`_; `Gtk+`_; `Qt`_; `GLM`_, `sigc++`_
 :Tools: `doxygen`_; `Javadoc`_, `pydoc`_, `Sphinx`_, `cscope`_; `gdb`_; `Git`_;
-        `mercurial`_; `bazaar`_; `subversion`_
+        `mercurial`_; `bazaar`_; `subversion`_; `ns2`_
 
 
 Applications
 ~~~~~~~~~~~~
 
-`vim`_; `Eclipse IDE`_; `LaTeX`_; `LibreOffice`_; `Dia`_; `ns2`_
+`vim`_; `Eclipse IDE`_; `LaTeX`_; `LibreOffice`_; `Dia`_
 
 
 Embedded Systems
@@ -155,15 +158,16 @@ Embedded Systems
 Open Source contributions
 -------------------------------------------------------------------------------
 
-`Mozilla addon SDK`_; `WSim hardware platform simulator`_ (used in `INRIA's SensLab`_ project); `PyGObject`_; `Liblarch`_; `GTG`_; `Funtoo linux`_;
-`Mediatomb`_.
+`Mozilla addon SDK`_; `WSim hardware platform simulator`_ (used in
+`INRIA's SensLab`_ project); `PyGObject`_; `Liblarch`_; `GTG`_;
+`Funtoo linux`_; `Mediatomb`_.
 
 .. _Mozilla addon SDK: https://addons.mozilla.org/en-US/developers/docs/sdk/latest/dev-guide/credits.html
 .. _WSim hardware platform simulator: https://gforge.inria.fr/users/nassimian/
 .. _PyGObject: http://wsim.gforge.inria.fr/people.html
 .. _Liblarch: https://lists.launchpad.net/gtg-contributors/msg01061.html
 .. _GTG: https://lists.launchpad.net/gtg/msg03555.html
-.. _INRIA's SensLab: http://www.senslab.info/
+.. _INRIA's SensLab: https://www.iot-lab.info/
 .. _Funtoo linux: http://bugs.funtoo.org/browse/FL-244
 .. _Mediatomb: https://github.com/placidrage/mediatomb-ng
 
