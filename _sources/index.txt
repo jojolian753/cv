@@ -29,7 +29,7 @@ Languages
 .. rst-class:: fullwidth centered
 
 .. list-table::
-   :widths: 20 80
+   :widths: 25 75
 
    * - **Mother tongue**
      - *French, Armenian, English, Arabic*
@@ -45,6 +45,9 @@ Professional experience & Internships
 
 .. rst-class:: prolist
 
+**Sep 2015 ⟼ present**
+  | Work contract as a translator for Volkshilfe.
+  | Volunteer work with refugees.
 **Jul 2011 ⟼ Sep 2011**
   | |CITI| in |Amazones|
   | Internship: Implementation and validation of arduino platforms in `WSim`_,
@@ -83,9 +86,6 @@ Professional experience & Internships
   | Course instructor and network security consultant (freelance).
   | Put to practice my **patience**, my ability to **understand** the *clients'*
     **need and capability**.
-**Sep 2015 ⟼ present**
-  | Work contract as a translator for Volkshilfe.
-  | Volunteer work with refugees.
 
 
 -------------------------------------------------------------------------------
